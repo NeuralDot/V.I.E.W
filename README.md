@@ -1,3 +1,3 @@
 # V.I.E.W
 
-for everyday use
+Perception aid for visually impaired 
