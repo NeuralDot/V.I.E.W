@@ -1,4 +1,4 @@
 # V.I.E.W
-## Visual Interpreter Enabling Wizards
+## Visual Interpreter of Environment Wizard
 
-Perception aid for the visually impaired 
+Perception assistance for the visually impaired 
